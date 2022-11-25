@@ -1,20 +1,25 @@
 # Reinforcement Learning Workshop by SMLRA
 
 <p align="center">
-<img src="https://i.imgur.com/pcpardQ.png" alt="drawing" width="600"/>
+<img src="https://i.imgur.com/PlNdgDL.png" alt="drawing" width="600"/>
 </p>
 
 
 
 Topics covered in the session:
 
-📌 Introduction of ML
+📌 Basics of Reinforcement learning 
 
-📌 Linear Regression
+📌 Markov decision process 
 
-📌 Logistic Regression
+📌 Bellman equation 
 
-📌 K-Means Clustering
+📌 Policy gradient 
+
+📌 Advantage Actor Critic Method (A2C)
+
+
+
 
 
 Join our [Discord server](https://discord.gg/JGKcXwfwdq)
